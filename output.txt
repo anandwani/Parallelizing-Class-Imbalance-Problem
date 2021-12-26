@@ -1,0 +1,88 @@
+Number of Rows -  64
+Features -  8
+Shape of Input Matrix= (64, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+39.86620903015137
+Time Taken by GPU Naive Vector Distance in Seconds
+1.6679680347442627
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
+
+
+Number of Rows -  256
+Features -  8
+Shape of Input Matrix= (256, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+636.2016201019287
+Time Taken by GPU Naive Vector Distance in Seconds
+2.7239999771118164
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
+
+
+Number of Rows -  1024
+Features -  8
+Shape of Input Matrix= (1024, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+9873.076677322388
+Time Taken by GPU Naive Vector Distance in Seconds
+18.495391845703125
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
+
+
+Number of Rows -  2048
+Features -  8
+Shape of Input Matrix= (2048, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+40099.54071044922
+Time Taken by GPU Naive Vector Distance in Seconds
+66.47602844238281
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
+
+
+Number of Rows -  4096
+Features -  8
+Shape of Input Matrix= (4096, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+157401.15475654602
+Time Taken by GPU Naive Vector Distance in Seconds
+251.02117919921875
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
+
+
+Number of Rows -  8192
+Features -  8
+Shape of Input Matrix= (8192, 8)
+Time Taken by Python Naive Vector Distance in Seconds
+628284.4393253326
+Time Taken by GPU Naive Vector Distance in Seconds
+975.1378784179688
+
+
+----------------------------------------
+-------Vector Distance Matched---------
+----------------------------------------
+
