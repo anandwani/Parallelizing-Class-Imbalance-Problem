@@ -7,7 +7,11 @@ Optimize VectorDistance with GPU
 4) Included the output.txt as well, which includes the traces of output for VectorDistance_GPU.py.
 
 Please note, these experiments were performed on Google Cloud Platform, using a machine with the following configuration:
+
 ➢ Machine type: n1-standard-4 (4 vCPUs, 15 GB memory)
+
 ➢ CPU platform: Intel Haswell
+
 ➢ GPUs: 1 x NVIDIA Tesla T4
+
 ➢ OS: ubuntu-1804-bionic-v20210825
