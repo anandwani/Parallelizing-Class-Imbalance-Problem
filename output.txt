@@ -1,9 +1,9 @@
 Number of Rows -  64
 Features -  8
 Shape of Input Matrix= (64, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 39.86620903015137
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 1.6679680347442627
 
 
@@ -16,9 +16,9 @@ Time Taken by GPU Naive Vector Distance in Seconds
 Number of Rows -  256
 Features -  8
 Shape of Input Matrix= (256, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 636.2016201019287
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 2.7239999771118164
 
 
@@ -31,9 +31,9 @@ Time Taken by GPU Naive Vector Distance in Seconds
 Number of Rows -  1024
 Features -  8
 Shape of Input Matrix= (1024, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 9873.076677322388
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 18.495391845703125
 
 
@@ -46,9 +46,9 @@ Time Taken by GPU Naive Vector Distance in Seconds
 Number of Rows -  2048
 Features -  8
 Shape of Input Matrix= (2048, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 40099.54071044922
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 66.47602844238281
 
 
@@ -61,9 +61,9 @@ Time Taken by GPU Naive Vector Distance in Seconds
 Number of Rows -  4096
 Features -  8
 Shape of Input Matrix= (4096, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 157401.15475654602
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 251.02117919921875
 
 
@@ -76,9 +76,9 @@ Time Taken by GPU Naive Vector Distance in Seconds
 Number of Rows -  8192
 Features -  8
 Shape of Input Matrix= (8192, 8)
-Time Taken by Python Naive Vector Distance in Seconds
+Time Taken by Python Naive Vector Distance in milliseconds
 628284.4393253326
-Time Taken by GPU Naive Vector Distance in Seconds
+Time Taken by GPU Naive Vector Distance in milliseconds
 975.1378784179688
 
 
