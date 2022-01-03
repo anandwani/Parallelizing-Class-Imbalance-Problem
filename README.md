@@ -1,10 +1,16 @@
-# VectorDistance_GPU
-Optimize VectorDistance with GPU
+# SMOTE_GPU
 
-1) To run the code, use 'python VectorDistance_GPU.py'
-2) To see the difference in time between CPU and GPU, observe the TimeGraph.png
-3) To see the GPU utilization, observe the Profile_VD.png
-4) Included the output.txt as well, which includes the traces of output for VectorDistance_GPU.py.
+1) Optimized VectorDistance with GPU - VectorDistance
+2) Including VectorDistance with KNN, solved class imbalance problem using SMOTE tenchnique
+
+Included the report + ppt explaining the algorithm for parallelization.
+
+The respective folders have the code, which includes
+1) The python code file
+2) TimeGraph to compare time difference between CPU and GPU (using different methods)
+3) To see the GPU utilization, observe the Profiling images
+4) Included the output.txt as well, which includes the traces of output. 
+
 
 Please note, these experiments were performed on Google Cloud Platform, using a machine with the following configuration:
 
