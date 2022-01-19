@@ -1,7 +1,7 @@
-# SMOTE_GPU
+# GPU Implementation of KNN and VectorDistance 
 
 1) Optimized VectorDistance with GPU
-2) Including VectorDistance with KNN, solved class imbalance problem using SMOTE tenchnique
+2) Including VectorDistance with KNN, solved class imbalance problem
 
 Included the report + ppt explaining the algorithm for parallelization.
 
